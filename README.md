@@ -12,4 +12,4 @@ HINT:  `echo "A buggy program lacking any tests" >> ParadiseEdited.txt`
 5. `add`, `commit`, and `push` your changes.
 6. Make a pull request.
 
-Feel free to refer to the main [curriculum](https://github.com/foxtrotplatoonew/curriculum?tab=readme-ov-file#submitting-work-for-review) page for more details.
+Feel free to refer to the main [curriculum](https://github.com/Golf-Evenings-and-Weekends/curriculum?tab=readme-ov-file#submitting-work-for-review) page for more details.
